@@ -1,5 +1,6 @@
 # AI-algorithms
 Repository for example algorithms used in AI.
+
 First directory contains A* algorithm, which solves instances of 15 puzzle.
 
 Second directory contains simple neural network written in Keras for handwritten digits recognition.
